@@ -8,7 +8,6 @@ This program achieves the following goals:
 
 * standalone binary should run without addtional dependencies
 * data is streamed so arbitrary amounts can be supported (real limits undefined)
-* 
 
 
 ## Example 
