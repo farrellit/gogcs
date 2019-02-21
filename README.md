@@ -7,6 +7,7 @@ copy data to gcs by piping it to this program's standard input.
 This program achieves the following goals:
 
 * standalone binary should run without addtional dependencies
+* standard credentials resolution
 * data is streamed so arbitrary amounts can be supported (real limits undefined)
 
 
